@@ -1,3 +1,7 @@
+# Warning
+
+Please do not delete the `patch-api-client-v0.8.7` branch without confirming it is no longer used by `p.google`.
+
 # Google API Client
 
 These client libraries are officially supported by Google.  However, the libraries are considered complete and are in maintenance mode. This means that we will address critical bugs and security issues but will not add any new features.
