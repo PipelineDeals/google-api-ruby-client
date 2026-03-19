@@ -13,7 +13,7 @@
 # limitations under the License.
 
 require 'faraday'
-require 'faraday/multipart'
+require 'faraday/request/multipart'
 require 'compat/multi_json'
 require 'addressable/uri'
 require 'stringio'
